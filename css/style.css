@@ -1,0 +1,39 @@
+.fullscreen-landing{
+    background: white url(../img/download.jpeg) no-repeat scroll center;
+    height: 100vh;
+    background-size: cover;
+}
+.overlay{
+    background-color: rgba(0,0,0,0.5);
+    height: 100%;
+}
+.search-box{
+    height: 50px;
+    width: 500px;
+    border-radius: 25px;
+   margin: auto;
+}
+.ss{
+    background: white url(../img/download.jpeg) no-repeat scroll center;
+    background-size: cover;
+}
+.so{
+    background-color: rgba(0,0,0,0.5);
+    height: 100%;
+}
+.c{
+    background: white url(../img/➳ཉིཾ𝒟𝑒𝓂𝑜𝓃\ 𝒮𝓁𝒶𝓎𝑒𝓇༄↝ᴷⁱᵐᵉᵗˢᵘ\ ⁿᵒ\ ᵞᵃⁱᵇᵃ\ ༄°❅.jpeg) no-repeat scroll center;
+    background-size: cover; 
+    
+}
+.d{
+    background-color: rgba(0,0,0,0.6);
+    border-radius: 25px;
+    z-index: 100p
+}
+.s{
+    color: aquamarine;
+    z-index: 20%;
+    margin-left: auto;
+
+}
